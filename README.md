@@ -6,9 +6,18 @@ Don't Know What To Eat is a web application that randomly selects a restaurant b
 
 ## Technologies Used
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+-  Java 8
+-  Hibernate
+-  Spring Framework
+-  PostgreSQL
+-  Log4J,
+-  Angular
+-  TypeScript
+-  HTML
+-  CSS
+-  Selenium
+-  JUnit
+-  Google Places API
 
 ## Features
 
